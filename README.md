@@ -33,6 +33,7 @@ For our system we plaintext was converted through the following functions:
 ## License and Uses
 
 All code invovled with project are created by: Franklin Muhuni, Nicholas Hughes, and Shriji Shah 
+
 As this was made for a academic project, you cannot copy or plagiarize the code/images used.
  
 
